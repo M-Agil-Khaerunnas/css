@@ -1,0 +1,29 @@
+.container {
+    width: 100%;
+    height: 900px;
+    background-color: beige;
+}
+
+.menu {
+    height: 40px;
+    background-color: rgb(230, 139, 22);
+    padding-left: 20px;
+}
+
+.header {
+    height: 200px;
+    background-color: orange;
+    padding-left: 20px;
+}
+
+.content {
+    height: 600px;
+    background-color: rgb(255, 207, 47);
+    padding-left: 20px;
+}
+
+.footer {
+    height: 60px;
+    background-color: rgb(229, 255, 0);
+    padding-left: 20px;
+}

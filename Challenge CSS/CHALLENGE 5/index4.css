@@ -1,0 +1,45 @@
+.container {
+    height: 900px;
+    background-color: grey;
+    box-sizing: border-box;
+}
+
+.header {
+    height: 200px;
+    background-color: blue;
+}
+
+.menu {
+    height: 40px;
+    background-color: rgb(131, 131, 255);
+}
+
+.content {
+    height: 600px;
+    width: 100%;
+}
+
+.main {
+    height: 600px;
+    width: 70%;
+    background-color: rgb(164, 164, 255);
+    float: left;
+}
+
+.sidebar {
+    height: 600px;
+    width: 30%;
+    background-color: rgb(177, 177, 255);
+    float:right;
+}
+
+.clear {
+    clear: both;
+}
+
+.footer {
+    height: 60px;
+    background-color: rgb(146, 146, 255);
+    text-align: center;
+    font-size: 100%;
+}

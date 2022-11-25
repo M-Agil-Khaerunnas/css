@@ -1,0 +1,59 @@
+.container {
+    text-align: center;
+    font-size: 25px; 
+    box-shadow: 12% black;
+    margin: auto;
+}
+
+.kotakkiri {
+    width: 400px;
+    height: 500px;
+    background-color: rgb(4, 66, 4);
+    float: left;
+    margin-left: 250px;
+    box-shadow: 4px 4px 4px black;
+}
+
+.image {
+    margin-top: 150px;
+}
+
+.kotakkanan {
+    width: 400px;
+    height: 500px;
+    float: left;
+    background-color: white;
+    box-shadow: 5px 5px 5px black;
+}
+
+.formlogin input {
+    height: 35px;
+    width: 290px;
+    border-radius: 5px;
+    border: 1px black solid;
+}
+
+.text {
+    text-align: center;
+    padding-top: 120px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.button {
+    padding-top: 35px;
+    align-items: center;
+}
+
+button {
+    width: 150px;
+    height: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(3, 43, 3);
+    border-radius: 5px;
+    color: white;
+    border: none;
+}
+
+::placeholder {
+    padding: 10px;
+}

@@ -1,0 +1,63 @@
+.container {
+    height: 850px;
+    width: 100%;
+    background-color: beige;
+    box-sizing: border-box;
+}
+
+body {
+    font-style: arial;
+}
+
+.menu {
+    height: 50px;
+    background-color: grey;
+}
+
+.Beranda {
+    width: 100px;
+    height: 40px;
+    margin-left: 20px;
+    background-color: grey;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.Formulir {
+    width: 100px;
+    height: 40px;
+    margin-left: 20px;
+    background-color: grey;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.DataAlumni {
+    width: 100px;
+    height: 40px;
+    margin-left: 20px;
+    background-color: grey;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.InfoLoker {
+    width: 100px;
+    height: 40px;
+    margin-left: 20px;
+    background-color: grey;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.gambar {
+    width: 100%;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.merah {
+    height: 500px;
+    background-color: red;
+}
